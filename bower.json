@@ -15,7 +15,16 @@
   ],
   "dependencies": {
     "semantic": "2.2.4"
-  },  
+  },
+  "overrides": {
+    "semantic": {
+      "main": [
+        "src/semantic.less",
+        "dist/semantic.css",
+        "dist/semantic.js"
+      ]
+    }
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
