@@ -1,17 +1,16 @@
 {
-  "name": "semantic-ui-angular-jquery",
+  "name": "sfl-angular-semantic-ui",
   "version": "0.2.1",
-  "homepage": "https://github.com/ClickerMonkey/SemanticUI-Angular",
+  "homepage": "https://github.com/74Labs/sfl-angular-semantic-ui",
   "authors": [
-    "Philip Diffenderfer <pdiffenderfer@gmail.com>"
+    "74Labs <seventy.four.laboratories@gmail.com>"
   ],
-  "description": "Angular Directives for Semantic UI & jQuery",
+  "description": "Angular Directives for Semantic UI",
   "main": "angular-semantic-ui.js",
   "keywords": [
     "javascript",
     "semantic-ui",
-    "angular",
-    "jquery"
+    "angular"
   ],
   "license": "MIT",
   "ignore": [
