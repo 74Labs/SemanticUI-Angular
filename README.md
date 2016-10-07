@@ -8,8 +8,8 @@ Check out the [Documentation](http://clickermonkey.github.io/SemanticUI-Angular/
 
 The easiest way to install this binding is with bower or npm:
 
-- bower: `bower install semantic-ui-angular-jquery`
-- npm: `npm install semantic-ui-angular-jquery`
+- bower: `bower install https://github.com/74Labs/sfl-angular-semantic-ui.git#master`
+- npm: `npm install https://github.com/74Labs/sfl-angular-semantic-ui.git#master`
 
 ### Modules
 
