@@ -1,12 +1,13 @@
 {
   "name": "sfl-angular-semantic-ui",
-  "version": "0.2.1",
+  "version": "master",
   "homepage": "https://github.com/74Labs/sfl-angular-semantic-ui",
   "authors": [
     "74Labs <seventy.four.laboratories@gmail.com>"
   ],
   "description": "Angular Directives for Semantic UI",
   "main": "angular-semantic-ui.js",
+  "private": true,
   "keywords": [
     "javascript",
     "semantic-ui",
